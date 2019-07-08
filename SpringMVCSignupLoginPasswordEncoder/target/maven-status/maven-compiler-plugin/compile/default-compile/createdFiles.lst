@@ -1,0 +1,9 @@
+com\jackrutorial\service\UserServiceImpl.class
+com\jackrutorial\config\SecurityInitializer.class
+com\jackrutorial\controller\LoginController.class
+com\jackrutorial\model\UserInfo.class
+com\jackrutorial\controller\UserController.class
+com\jackrutorial\form\UserForm.class
+com\jackrutorial\service\UserService.class
+com\jackrutorial\validator\SignupValidator.class
+com\jackrutorial\dao\UserDao.class
